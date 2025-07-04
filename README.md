@@ -22,7 +22,7 @@ A workshop download tool for Wallpaper Engine.
 
  4. Select the wallpaper engine file path (with folder `\projects\myprojects` included) and click the `Download` button.
 
-  4. Select DepotDownloaderMod.exe file. Last (update)[https://github.com/SteamAutoCracks/DepotDownloaderMod/releases] and click the `Download` button.
+  4. Select DepotDownloaderMod.exe file. Last [update](https://github.com/SteamAutoCracks/DepotDownloaderMod/releases) and click the `Download` button.
 
 ## Bugs  
 
